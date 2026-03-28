@@ -26,3 +26,20 @@ Signatory Name-2
 Signatory Mobile-2
 Signatory Name-3
 Signatory Mobile-3
+
+
+
+#Extra (or) mappable columns
+-----------------------------
+Beatname
+address2
+address3
+creditlimit
+ornaments
+grossweight
+Termination Date
+
+introducerid
+introducername
+introducermobile
+marketvalue
