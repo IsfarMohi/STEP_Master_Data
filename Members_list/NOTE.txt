@@ -1,0 +1,28 @@
+#missing columns
+----------------
+Group
+Religion
+Caste
+Sub-Caste
+Email
+Adhaar No
+Pan Card
+
+Office/Business Address
+ID and Address Proof
+Address Proof Attached
+Nominee Id & Address Proof
+Nominee Address Proof Attached
+
+Immovable Property Details
+
+Soceity
+Branch
+
+Nominee Age (can be calculated from DOB)
+Signatory Name-1
+Signatory Mobile-1
+Signatory Name-2
+Signatory Mobile-2
+Signatory Name-3
+Signatory Mobile-3
